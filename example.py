@@ -1,6 +1,6 @@
 #!/bin/python3
-import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.pyplot as plt
 print('hello world')
 
 
